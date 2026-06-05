@@ -1,0 +1,8 @@
+[client]
+showSidebarNavigation = false
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
+scriptRunTimeOut = "300s"
+enableStaticServing = true
